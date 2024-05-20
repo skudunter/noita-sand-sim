@@ -1,5 +1,5 @@
 # Noita inspired sand/water simulation
-![ssnad](https://github.com/skudunter/noita-sand-sim/noita-sand-sim.png)
+![ssnad]([https://github.com/skudunter/noita-sand-sim/noita-sand-sim.png](https://github.com/skudunter/noita-sand-sim/blob/main/noita-sand-sim.png?raw=true))
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
